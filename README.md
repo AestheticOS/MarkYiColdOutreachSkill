@@ -21,19 +21,19 @@ Clone the repository into the personal skill directory for your agent.
 ### Codex
 
 ```bash
-git clone https://github.com/JeffreyLind3/mark-yi-cold-outreach.git ~/.agents/skills/mark-yi-cold-outreach
+git clone https://github.com/AestheticOS/MarkYiColdOutreachSkill.git ~/.agents/skills/mark-yi-cold-outreach
 ```
 
 ### Claude Code
 
 ```bash
-git clone https://github.com/JeffreyLind3/mark-yi-cold-outreach.git ~/.claude/skills/mark-yi-cold-outreach
+git clone https://github.com/AestheticOS/MarkYiColdOutreachSkill.git ~/.claude/skills/mark-yi-cold-outreach
 ```
 
 ### Grok Build
 
 ```bash
-git clone https://github.com/JeffreyLind3/mark-yi-cold-outreach.git ~/.grok/skills/mark-yi-cold-outreach
+git clone https://github.com/AestheticOS/MarkYiColdOutreachSkill.git ~/.grok/skills/mark-yi-cold-outreach
 ```
 
 You can also download the repository and copy its folder into the corresponding skills directory.
