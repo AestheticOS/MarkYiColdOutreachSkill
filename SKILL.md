@@ -97,7 +97,3 @@ Unless the user requests another format, return:
 5. a short “Missing proof” note only when a required fact or value artifact is absent.
 
 Do not include a strategy explanation or send the email unless the user asks.
-
-## Provenance
-
-This is an independent synthesis of Mark Yi's public cold-outreach advice and resources he recommended. It is not affiliated with or endorsed by Mark Yi. See [SOURCES.md](SOURCES.md) for the source links.
