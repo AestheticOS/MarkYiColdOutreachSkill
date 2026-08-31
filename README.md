@@ -1,7 +1,5 @@
 # Mark Yi Cold Outreach
 
-An open, portable Agent Skill for writing short, research-backed, value-first cold outreach.
-
 The skill turns recurring principles from Mark Yi's public posts, replies, examples, and recommended resources into a reusable workflow. It is designed for one-to-one outreach for jobs, startup roles, collaborations, mentorship, and other high-upside opportunities—not bulk campaigns or generic mail merges.
 
 This is an independent synthesis. It is not affiliated with or endorsed by Mark Yi.
@@ -11,8 +9,6 @@ This is an independent synthesis. It is not affiliated with or endorsed by Mark 
 - `SKILL.md` — the complete agent instructions
 - `SOURCES.md` — source links and provenance
 - `LICENSE` — MIT license for this repository's original content
-
-The repository itself is a valid [Agent Skills](https://agentskills.io) directory. Its `SKILL.md` uses only portable standard fields.
 
 ## Install
 
@@ -52,11 +48,3 @@ Useful inputs include:
 - the smallest next step you want to request.
 
 If you have no meaningful proof of work or value to offer yet, the skill will identify that gap instead of hiding it behind polished copy.
-
-## Compatibility
-
-The core format follows the open [Agent Skills specification](https://agentskills.io/specification). It is intentionally free of Codex-, Claude-, and Grok-specific frontmatter or tool instructions.
-
-## Attribution
-
-See [SOURCES.md](SOURCES.md). The linked posts and third-party resources remain the property of their respective authors and publishers. The MIT license applies to the original instructional synthesis in this repository, not to linked material.
